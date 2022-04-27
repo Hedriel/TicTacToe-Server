@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZvdn8s9B3olsXqddZjgWNGHeE+pUOn0H5vOiytUVBRyLLG6GzmCwihJsqgcW091p6pRD0LnY8Gu0/Ny9ktrlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jarvis-PC\\Desktop\\Things\\Repos\\Servidor\\Servidor\\Servidor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jarvis-PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Jarvis-PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
+    "C:\\Users\\Jarvis-PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Jarvis-PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Jarvis-PC\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
